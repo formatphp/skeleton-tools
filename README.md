@@ -6,10 +6,10 @@ formatting messages, dates, times, numbers, and currency.
 To run the sample application, type the following in your terminal:
 
 ```shell
-git clone https://github.com/Skillshare/formatphp.git
-cd formatphp/
+git clone https://github.com/formatphp/skeleton-tools.git
+cd skeleton-tools/
 composer update
-php -S localhost:9001 ./resources/public/index.php
+php -S localhost:9001 ./public/index.php
 ```
 
 Then, you may access the application in a web browser at <http://localhost:9001>.
