@@ -8,7 +8,7 @@ To run the sample application, type the following in your terminal:
 ```shell
 git clone https://github.com/formatphp/skeleton-tools.git
 cd skeleton-tools/
-composer update
+composer update --no-dev
 php -S localhost:9001 ./public/index.php
 ```
 
