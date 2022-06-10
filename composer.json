@@ -9,7 +9,7 @@
         "ext-mbstring": "*",
         "mdwheele/zalgo": "^0.3.1",
         "ramsey/composer-repl": "^1.4",
-        "skillshare/formatphp": "^0.7",
+        "skillshare/formatphp": "^1.0",
         "slim/psr7": "^1.5",
         "slim/slim": "^4.9",
         "slim/twig-view": "^3.3",
