@@ -1,0 +1,31 @@
+{
+    "name": "formatphp/skeleton-tools",
+    "license": "Apache-2.0",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8",
+        "ext-intl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "mdwheele/zalgo": "^0.3.1",
+        "ramsey/composer-repl": "^1.4",
+        "skillshare/formatphp": "^0.7",
+        "slim/psr7": "^1.5",
+        "slim/slim": "^4.9",
+        "slim/twig-view": "^3.3",
+        "symfony/var-exporter": "^5.4",
+        "twig/twig": "^3.3"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.25"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true,
+            "ramsey/composer-repl": true
+        },
+        "sort-packages": true
+    }
+}
